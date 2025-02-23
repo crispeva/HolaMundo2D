@@ -1,0 +1,3132 @@
+fileFormatVersion: 2
+guid: 807be7f36d8f6df44bde99cc1c2f0b3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mudkip_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 429
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641cb5941a1d7141a1d5314edce5cf1
+      internalID: -1512004237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 429
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c74800d9b841408fb92a09528dafa
+      internalID: -1278135643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 391
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a6f4c8f054ef4e91ae8877b9c31c8
+      internalID: 473333022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 391
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5638909f0301964585acee11cf8e9ac
+      internalID: 1863645083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 391
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea72ffeda524824e9565e72f1ca142c
+      internalID: 432043758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 391
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd9d8c8f8e473448606647c5ec0201
+      internalID: -1883179655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 391
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff01307c389d514fb55c83b6916e7b7
+      internalID: -2018991013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee905b8168f92047873dad843cc90ef
+      internalID: 1497114569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 376
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91adf8dae81e8624b804871767535ef6
+      internalID: -1386733182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 376
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d5fea13c70c449b52a53e86533bb8
+      internalID: -1917233022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 376
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7985fb8c8eaf740a381bbf3eceec04
+      internalID: 1609802172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebdcf7f79793444e97e602d54764c9e
+      internalID: 1864464870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 337
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e0f131cf5f2b4283cca25c0874b86
+      internalID: 878152417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 337
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd700ddac1e8d3849ada2f17ebb6c636
+      internalID: 875823496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 337
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa357544e236840b39aed80a790eab
+      internalID: 887631123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 337
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e641d2c4af954d9c6d917695d343b
+      internalID: 355381713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 324
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d9ef266c5cf94c9799fbed227c9b1
+      internalID: 1573004035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 324
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4aad107cada414ab7ba4d3c0e0b295
+      internalID: -1218872880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 324
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8290e19e80f9c24ea234cf74282517a
+      internalID: 20740698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 324
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542f0363f085cb4bbd46e6df5793881
+      internalID: -652374460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 324
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e2dc3f9651bf64eb0a7681e74624e0
+      internalID: -841744004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 321
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01973627f142dc44b9a56ad81b166d2
+      internalID: 1357807442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 280
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922b682f8f32503478c37ac3736a70c2
+      internalID: 1970700545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 280
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee0b42aa46c4be4cbb68cff28c6fae1
+      internalID: 2133121945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 280
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1187ec7e5f6e45b0a8b684efcb01a
+      internalID: -912867356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 280
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92739377adaef247a73ec16debb3dd5
+      internalID: 985622639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2098aa80027c4b83b13605a0e2264
+      internalID: 2093879869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 280
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d35e8a66c11b47b251e165d68aede
+      internalID: 487104421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682d4533716dce248a4632e84d84b10e
+      internalID: 324925469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae97d4040e34614bba758ab74814ef6
+      internalID: 802327915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 229
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfda23cb37c14241849f56aacc182c0
+      internalID: -1306683465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 215
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee79b6ae3f8624aafd73f3bc528cba
+      internalID: 2003068623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_32
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 215
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fef6fe751a06438fa110daff78c35
+      internalID: 2029411487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 215
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14e80a98545b84194b6d43e4c6aed4
+      internalID: 265522181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 215
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37494b6d4a9bdf2488db6bf58f024ce6
+      internalID: 901267883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 215
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba879d039e280d438f4db5e742621bf
+      internalID: -1478390388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca61f13eb93854a8f7b55550a0bc6a
+      internalID: 272654082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b584aa384c86b54f8bc1f50fff0a9d9
+      internalID: 1750817655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39878518c6973884d9b4f0fbebadadf8
+      internalID: -1861311644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c5eddd55d659428df3d4e5b43a7ae
+      internalID: -1989962176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedbaac002803384f84b93b677fbd51b
+      internalID: 1067323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 160
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4873bbd0874d4e894dadcf5f00389
+      internalID: -426854876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d49b6847037d489eb28389c9b7210
+      internalID: 954029222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f90b0083edfab4093c4e57036e0a4c
+      internalID: 621882205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 160
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971467ee0cd5b724a8cb6df2b17c5d72
+      internalID: -1223419724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa872c365c7a754e88f34b7a1d1dc85
+      internalID: -580473442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94af7183bfa144a4bb1f7b2f7728c3c5
+      internalID: -289108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d3df9291f61a4e8313cf0c2dc7d7f
+      internalID: -1201649938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 160
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384cf59627b78214fbd8e06650902705
+      internalID: 861099411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 160
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e015bc6ad7244ea4b62da1dbb27b8
+      internalID: -1776028315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075f6ee815cbd7f4d9293b1bb5660a49
+      internalID: -1298724885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace507e2931c4f4ca42fd5c75f33f6c
+      internalID: 240176953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 119
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f548260d00ddd124bbed98275b860297
+      internalID: 400639529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 119
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd02b4f4f94f84f9a50dabc093c322
+      internalID: -358917604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 102
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcc807090c70f4cae2e63f6f315ba8
+      internalID: -1244382461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1a190a2a2517547ac5201d2657162f
+      internalID: 910341816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 102
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949f4581724c2c444af1531ecc1162a5
+      internalID: -763618502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 99
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002ffac9b4caca1458db1496ca645c1e
+      internalID: 1819577070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86821dc6fcbe041a1e3b5dd87af34f
+      internalID: -1015907096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 99
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052dbbe9f576b1344ad09f6465ae3752
+      internalID: 1970213933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_60
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 102
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf786aa4c6b9b4db0ecd685a111de8
+      internalID: -292311352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9576f707bb93b498971dc1eccd4ef6
+      internalID: -989794359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 102
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a7c0aa5d3bdcd4e9a8015c2269206f
+      internalID: -1877223578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 102
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dea2fea367022488ce2b700db4a34f
+      internalID: -1631308636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 102
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e92d574b921547ab92e9af7c69765
+      internalID: 1073668400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c377db1c6e5334fa915aeb3893feef
+      internalID: 293237332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_66
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ae651e8ed6154299276e8bec5eb3d
+      internalID: 1009647101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2b6f6c67be4f42b40391e8edb0fab
+      internalID: -1472166851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_68
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0adf69900ba98458193b5ccd1213f6
+      internalID: 1589014385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30fee8312a1f1f41adc3f1f14ed32df
+      internalID: -216440353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebb37356384f24db159414955c9811
+      internalID: -1152095812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_71
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 70
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10392be078e13046874c51e59843ab4
+      internalID: -877132008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_72
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537e6c01115fad429ff59582fc20d38
+      internalID: -362313605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 70
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394912f8cc4cd6c439e75ab209f9d6c2
+      internalID: -671906196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 70
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfa97cabb7dccc4285f32e93b3b6d53
+      internalID: 564357272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_75
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12201143ddce17a488b857bf36a5234f
+      internalID: 249816379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409560af2be3e5e478209f40a73c5fba
+      internalID: 1678657615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eece85de4dcf84dad59573ff4f6f55
+      internalID: 961690987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_78
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c9acdbdae24840bf2282fd310bf03
+      internalID: 527382668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d6ed24ab17b34184c979eefd9a9f8
+      internalID: -921250383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_80
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e5df8076e1b644af83f6fe906a1d9
+      internalID: 968287112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4718834a763a10489cc2df3a64e4b75
+      internalID: -1264115767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 70
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a8c55b3ec64e7479abb5e45180ecec
+      internalID: 1713461375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a0062c10b9bb48b75f6e26df690a4
+      internalID: -1752049073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc5092144d6dd4bac40eedd8ebe646
+      internalID: -2062012616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64914844cb3f5d542a4f630fa383ed9a
+      internalID: 1866878258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65813216730869d448d0a9d9a0773fe8
+      internalID: 1007701143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703556c29e2a0594e9523c35b5db5f52
+      internalID: -67935905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e9b3a2e934c0544986192d115c5a8f
+      internalID: 865613357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_89
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 70
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a440a13484852d4f8b0f400ea82162e
+      internalID: -159607812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccf7556b0f6b0a48bc53ce0b56aff41
+      internalID: -1009554178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b8325401309e47987aac80eb341ef
+      internalID: -1547765187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf024ad0d0f8d46882d02cd03b0ca7
+      internalID: -1487442877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_93
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3367e461a649ec0499912171d09f5784
+      internalID: 1805668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_94
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1d48702db69cf41ba3fe36e030df32
+      internalID: -1052734810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989328a831c86049b1e8e77f657bfd7
+      internalID: -1976640162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_96
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 54
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb1fb808b4587a4d83aea46ea0d3d2d
+      internalID: -811448041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6243365160451429ba5b20db7f11ad
+      internalID: 1987310515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a9fe26ec0dd4140a74dc420b2a879f
+      internalID: 863720444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f154b3f6220740aeac6b9a277d8ed
+      internalID: 243503881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_100
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 54
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc82afb8c08ef49b03e531b3d53fe5
+      internalID: 240258270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca053a97e9b1f82459db8df09ddd1ac4
+      internalID: 1384728890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ee807b118a8e4fb7880cc81d2e3f9
+      internalID: -1145834146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_103
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab683fc790b992b49b82de70af31891f
+      internalID: 1661990836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4657d0aba7246f64885241baf4d964d0
+      internalID: 1432810185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c336b7a345b741b99039a9c9c07ed
+      internalID: -674827086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7fa6d48ff09945a1d0283114d2ca8
+      internalID: 124542512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_107
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 54
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fa9f26aa768749b7ddabd9739c820
+      internalID: -670303479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 38
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910f20038f100648a332d28d55e15c6
+      internalID: -64523391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d92aeffce6f454487213a6ab48019e
+      internalID: -1737335427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_110
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52108f26d315f48a8e5dc775a1a5a9
+      internalID: -1277966026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e9dab806927040b784baa38797752
+      internalID: -1928976941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_112
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f3723d79c58d845bd7864f07c40379
+      internalID: -1326211982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_113
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d5e23d5ce7564ea2459e2022b4dbb
+      internalID: 185021342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49c43cc1a29eeb4b894326609576f7f
+      internalID: 1557400173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a604ad0c20e04fad93d0afc981a9f
+      internalID: -2086254387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_116
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2cd37bc9893b64f9403f98504e265a
+      internalID: -1980439882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_117
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8039cf4cf6f8984eb73c1bbc439faab
+      internalID: -247763867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_118
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4319c1d56c3467469ac9a9bcd22f71c
+      internalID: 752673931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_119
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e91bacf68fd044b9bd73bbd8843852
+      internalID: -2006196398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 38
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d514b693155f40b96c00289ee9d01
+      internalID: -387815227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac871cdab7ad345abdbf7fd85543ca
+      internalID: -1875137196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8791249fb6ac4fa56374ac21cf9cc
+      internalID: -497213851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_123
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807fdca43c0925439a7c7bc6ad704e0
+      internalID: -1115973483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c18ed257f89d4419a42c75c09a0a29
+      internalID: 474492995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_125
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902b27210f72de43bfe1d07ea22c823
+      internalID: 1789775401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_126
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78786fece338eec4c90471b57f679203
+      internalID: -531896466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_127
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df615d7a3086efc4aba6df9e253fbd28
+      internalID: 184737370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_128
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f70432b580b24dbd2f703e87b98dd
+      internalID: 278978914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4658f1c0809b9b34fbcd70c9899f8ef7
+      internalID: -763760977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_130
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abdbc46a20e0124ea47b506a1cedffd
+      internalID: 322221687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_131
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28067f3bd889554a830998a0b3323ac
+      internalID: -1196903344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e96e784cb92a468895decc68d5803
+      internalID: 1929725706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_133
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09889cb40711d4fad7da0fb78cb0e7
+      internalID: 1300116327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_134
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859888d2e683dd4a969a47312577af7
+      internalID: 657248746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudkip_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54158a6f2388a68499ee70989b6d50df
+      internalID: -1406083185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mudkip_0: -1512004237
+      mudkip_1: -1278135643
+      mudkip_10: 1609802172
+      mudkip_100: 240258270
+      mudkip_101: 1384728890
+      mudkip_102: -1145834146
+      mudkip_103: 1661990836
+      mudkip_104: 1432810185
+      mudkip_105: -674827086
+      mudkip_106: 124542512
+      mudkip_107: -670303479
+      mudkip_108: -64523391
+      mudkip_109: -1737335427
+      mudkip_11: 1864464870
+      mudkip_110: -1277966026
+      mudkip_111: -1928976941
+      mudkip_112: -1326211982
+      mudkip_113: 185021342
+      mudkip_114: 1557400173
+      mudkip_115: -2086254387
+      mudkip_116: -1980439882
+      mudkip_117: -247763867
+      mudkip_118: 752673931
+      mudkip_119: -2006196398
+      mudkip_12: 878152417
+      mudkip_120: -387815227
+      mudkip_121: -1875137196
+      mudkip_122: -497213851
+      mudkip_123: -1115973483
+      mudkip_124: 474492995
+      mudkip_125: 1789775401
+      mudkip_126: -531896466
+      mudkip_127: 184737370
+      mudkip_128: 278978914
+      mudkip_129: -763760977
+      mudkip_13: 875823496
+      mudkip_130: 322221687
+      mudkip_131: -1196903344
+      mudkip_132: 1929725706
+      mudkip_133: 1300116327
+      mudkip_134: 657248746
+      mudkip_135: -1406083185
+      mudkip_14: 887631123
+      mudkip_15: 355381713
+      mudkip_16: 1573004035
+      mudkip_17: -1218872880
+      mudkip_18: 20740698
+      mudkip_19: -652374460
+      mudkip_2: 473333022
+      mudkip_20: -841744004
+      mudkip_21: 1357807442
+      mudkip_22: 1970700545
+      mudkip_23: 2133121945
+      mudkip_24: -912867356
+      mudkip_25: 985622639
+      mudkip_26: 2093879869
+      mudkip_27: 487104421
+      mudkip_28: 324925469
+      mudkip_29: 802327915
+      mudkip_3: 1863645083
+      mudkip_30: -1306683465
+      mudkip_31: 2003068623
+      mudkip_32: 2029411487
+      mudkip_33: 265522181
+      mudkip_34: 901267883
+      mudkip_35: -1478390388
+      mudkip_36: 272654082
+      mudkip_37: 1750817655
+      mudkip_38: -1861311644
+      mudkip_39: -1989962176
+      mudkip_4: 432043758
+      mudkip_40: 1067323568
+      mudkip_41: -426854876
+      mudkip_42: 954029222
+      mudkip_43: 621882205
+      mudkip_44: -1223419724
+      mudkip_45: -580473442
+      mudkip_46: -289108834
+      mudkip_47: -1201649938
+      mudkip_48: 861099411
+      mudkip_49: -1776028315
+      mudkip_5: -1883179655
+      mudkip_50: -1298724885
+      mudkip_51: 240176953
+      mudkip_52: 400639529
+      mudkip_53: -358917604
+      mudkip_54: -1244382461
+      mudkip_55: 910341816
+      mudkip_56: -763618502
+      mudkip_57: 1819577070
+      mudkip_58: -1015907096
+      mudkip_59: 1970213933
+      mudkip_6: -2018991013
+      mudkip_60: -292311352
+      mudkip_61: -989794359
+      mudkip_62: -1877223578
+      mudkip_63: -1631308636
+      mudkip_64: 1073668400
+      mudkip_65: 293237332
+      mudkip_66: 1009647101
+      mudkip_67: -1472166851
+      mudkip_68: 1589014385
+      mudkip_69: -216440353
+      mudkip_7: 1497114569
+      mudkip_70: -1152095812
+      mudkip_71: -877132008
+      mudkip_72: -362313605
+      mudkip_73: -671906196
+      mudkip_74: 564357272
+      mudkip_75: 249816379
+      mudkip_76: 1678657615
+      mudkip_77: 961690987
+      mudkip_78: 527382668
+      mudkip_79: -921250383
+      mudkip_8: -1386733182
+      mudkip_80: 968287112
+      mudkip_81: -1264115767
+      mudkip_82: 1713461375
+      mudkip_83: -1752049073
+      mudkip_84: -2062012616
+      mudkip_85: 1866878258
+      mudkip_86: 1007701143
+      mudkip_87: -67935905
+      mudkip_88: 865613357
+      mudkip_89: -159607812
+      mudkip_9: -1917233022
+      mudkip_90: -1009554178
+      mudkip_91: -1547765187
+      mudkip_92: -1487442877
+      mudkip_93: 1805668173
+      mudkip_94: -1052734810
+      mudkip_95: -1976640162
+      mudkip_96: -811448041
+      mudkip_97: 1987310515
+      mudkip_98: 863720444
+      mudkip_99: 243503881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

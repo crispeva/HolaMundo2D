@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: 29f584baeab39c4409e4b785fa67472b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 160
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe8c08de853b1439ace3cdd94a73de
+      internalID: -1630921537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2090e6347c255438c9b7c77e203c96
+      internalID: 54656132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf43f384fd59d74ebbf9a6a37c174ab
+      internalID: -100607452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 160
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b04dc444bbdd54a9a771da83b4f4f1
+      internalID: 19835392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6730aecee29de149b277b22e7b07b70
+      internalID: 232509146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f5cd08a376f54a91778204e9cb3f5
+      internalID: 1525964019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc00d889b3a9c743b808df2413f5f3a
+      internalID: -187446533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 160
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3390dc30598774d84e4b0b14d23202
+      internalID: 351089549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 160
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88e03c04bbe6d43bd5aa5a813f499a
+      internalID: -176239579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea1502d64ef9841b85d30ceafe3f9e
+      internalID: -621765406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c0f56cd43376a498f725526f66bfed
+      internalID: 717061600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23dd4386ff81214e91ad3327709ad92
+      internalID: -1677321538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377b1b137954c94d88fe0b06930cc6e
+      internalID: 2092380927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 112
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa81f0a8d068647ad326d974b98958
+      internalID: 840037214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd419dd1968b77f49b90c6095d43199b
+      internalID: -878969522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eedceb0c5485e48a7c0a7254c59bcc
+      internalID: -199191180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 112
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa09de36aa5400846aabc77adb10fefa
+      internalID: 1007039946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_17
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 112
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8bf18be5a7f084c8de7b5b2c1eb006
+      internalID: 1881672189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0d9fc32cc7474ca25f1168e55b80b
+      internalID: 1717562411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 112
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afd43eb30504745948cb5fc7564aa5
+      internalID: 71918238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 112
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20e707ff38b5f4f9f454099faee75a
+      internalID: 846594070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 112
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4891a3982f93a84dbd6ec3e0ad4e212
+      internalID: 1500633290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028cb636aa4da8e46a14540662a01dd1
+      internalID: 374036210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e867562cad9640986d4980c2659f1
+      internalID: -857800651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd77b78b46bbb489b79ec85e6dc4d4
+      internalID: 1499492491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a7c911d97e18341bac95c163486932
+      internalID: -2038438754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f28a9d96ac7554e8f667ef92698509
+      internalID: 375995277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e81447bca94cc74eb0f11cb14f197f1
+      internalID: -1867684893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee908d9809def4e43a665e5a431218ad
+      internalID: -579231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fda133e53c7f43ad81d9924a0e4ec
+      internalID: -820630851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c6944fa120de41b480dc52ceda8b7
+      internalID: 1589532223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0469fed34608498977a21bc1f7afb
+      internalID: -1951673235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b506d38e3574419496da97fdd8599
+      internalID: 2127557893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 122
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bad913a89bc2f4087db81915941aec
+      internalID: 1814329397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a00861f826fb64595668b201a43b62
+      internalID: 723510487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17a26d6101e53a44847ce52c35c10a2
+      internalID: 326244432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_36
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 40
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdba1ec1f60eec4e8423e385cd410c2
+      internalID: -2044237329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f128770bc6f141b567d162c4bb7fa
+      internalID: 1810241682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 40
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14461fe038a2642b1f5d133f296b89
+      internalID: -1515666558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 41
+        width: 58
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42458c50bb66647912c034ac46f729
+      internalID: -1510272039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 42
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590e4642ead25f42bac6c4ed841aa9a
+      internalID: -350542272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 38
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692c243b4f05ec468a8cca7f3947ab5
+      internalID: -895486720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e953350b6895f4a8b76946ac09b104
+      internalID: 155349866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_43
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975e3ef6950c9d40b516eaf4df7fd3f
+      internalID: 1885805967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819682039a358c4183d6d2c8249be77
+      internalID: 1717353929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28140fb132e7a4cae48f089df9ead9
+      internalID: -464351823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 4
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f62c9bb58ce75b449f0340bac871621
+      internalID: 917223023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4f2bf9d0012f044b2ad0c6c8ad9560
+      internalID: 1984873670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ccdebcb187e1488b73b17b1babbc3
+      internalID: 2028522836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ed3048fd692c43aa224fa484a999d
+      internalID: 2077551567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31cbb1c87d6f9d4baca12fad9015ce6
+      internalID: 285086356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 7
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abca44c491bb6f4cb63b5453017f851
+      internalID: -1763305072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afea74ec88da544ebc4206874743afd
+      internalID: 1357496389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_53
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 8
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0d5615b36b4d48b82d2de5ab2dbf2
+      internalID: 1208438227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Duo NES-Style_54
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 4
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e49eec4f2cb843b4edc04e58cabf0
+      internalID: -659113475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Mega Man Customs - Duo NES-Style_0: -1630921537
+      Custom Edited - Mega Man Customs - Duo NES-Style_1: 54656132
+      Custom Edited - Mega Man Customs - Duo NES-Style_10: 717061600
+      Custom Edited - Mega Man Customs - Duo NES-Style_11: -1677321538
+      Custom Edited - Mega Man Customs - Duo NES-Style_12: 2092380927
+      Custom Edited - Mega Man Customs - Duo NES-Style_13: 840037214
+      Custom Edited - Mega Man Customs - Duo NES-Style_14: -878969522
+      Custom Edited - Mega Man Customs - Duo NES-Style_15: -199191180
+      Custom Edited - Mega Man Customs - Duo NES-Style_16: 1007039946
+      Custom Edited - Mega Man Customs - Duo NES-Style_17: 1881672189
+      Custom Edited - Mega Man Customs - Duo NES-Style_18: 1717562411
+      Custom Edited - Mega Man Customs - Duo NES-Style_19: 71918238
+      Custom Edited - Mega Man Customs - Duo NES-Style_2: -100607452
+      Custom Edited - Mega Man Customs - Duo NES-Style_20: 846594070
+      Custom Edited - Mega Man Customs - Duo NES-Style_21: 1500633290
+      Custom Edited - Mega Man Customs - Duo NES-Style_22: 374036210
+      Custom Edited - Mega Man Customs - Duo NES-Style_23: -857800651
+      Custom Edited - Mega Man Customs - Duo NES-Style_24: 1499492491
+      Custom Edited - Mega Man Customs - Duo NES-Style_25: -2038438754
+      Custom Edited - Mega Man Customs - Duo NES-Style_26: 375995277
+      Custom Edited - Mega Man Customs - Duo NES-Style_27: -1867684893
+      Custom Edited - Mega Man Customs - Duo NES-Style_28: -579231683
+      Custom Edited - Mega Man Customs - Duo NES-Style_29: -820630851
+      Custom Edited - Mega Man Customs - Duo NES-Style_3: 19835392
+      Custom Edited - Mega Man Customs - Duo NES-Style_30: 1589532223
+      Custom Edited - Mega Man Customs - Duo NES-Style_31: -1951673235
+      Custom Edited - Mega Man Customs - Duo NES-Style_32: 2127557893
+      Custom Edited - Mega Man Customs - Duo NES-Style_33: 1814329397
+      Custom Edited - Mega Man Customs - Duo NES-Style_34: 723510487
+      Custom Edited - Mega Man Customs - Duo NES-Style_35: 326244432
+      Custom Edited - Mega Man Customs - Duo NES-Style_36: -2044237329
+      Custom Edited - Mega Man Customs - Duo NES-Style_37: 1810241682
+      Custom Edited - Mega Man Customs - Duo NES-Style_38: -1515666558
+      Custom Edited - Mega Man Customs - Duo NES-Style_39: -1510272039
+      Custom Edited - Mega Man Customs - Duo NES-Style_4: 232509146
+      Custom Edited - Mega Man Customs - Duo NES-Style_40: -350542272
+      Custom Edited - Mega Man Customs - Duo NES-Style_41: -895486720
+      Custom Edited - Mega Man Customs - Duo NES-Style_42: 155349866
+      Custom Edited - Mega Man Customs - Duo NES-Style_43: 1885805967
+      Custom Edited - Mega Man Customs - Duo NES-Style_44: 1717353929
+      Custom Edited - Mega Man Customs - Duo NES-Style_45: -464351823
+      Custom Edited - Mega Man Customs - Duo NES-Style_46: 917223023
+      Custom Edited - Mega Man Customs - Duo NES-Style_47: 1984873670
+      Custom Edited - Mega Man Customs - Duo NES-Style_48: 2028522836
+      Custom Edited - Mega Man Customs - Duo NES-Style_49: 2077551567
+      Custom Edited - Mega Man Customs - Duo NES-Style_5: 1525964019
+      Custom Edited - Mega Man Customs - Duo NES-Style_50: 285086356
+      Custom Edited - Mega Man Customs - Duo NES-Style_51: -1763305072
+      Custom Edited - Mega Man Customs - Duo NES-Style_52: 1357496389
+      Custom Edited - Mega Man Customs - Duo NES-Style_53: 1208438227
+      Custom Edited - Mega Man Customs - Duo NES-Style_54: -659113475
+      Custom Edited - Mega Man Customs - Duo NES-Style_6: -187446533
+      Custom Edited - Mega Man Customs - Duo NES-Style_7: 351089549
+      Custom Edited - Mega Man Customs - Duo NES-Style_8: -176239579
+      Custom Edited - Mega Man Customs - Duo NES-Style_9: -621765406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
